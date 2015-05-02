@@ -1,0 +1,12 @@
+ {
+  "name"         : "placer",
+  "version"      : "0.0.0",
+  "description"  : "Collect and share places",
+  "main"         : "server.js",
+  "author"       : "Lukas",
+  "dependencies" : {
+    "express"    : "4.4.1",
+    "underscore" : "1.6.0",
+    "jade"       : "1.3.1"
+    }
+  }
